@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "9.0.0",
-  "apkUrl": "https://github.com/mdaadil87/adnan-ai-updates/releases/download/v9.0.0/AdnanAI-9.0.0.apk",
-  "releaseNotes": "Adnan AI 9.0.0 - First automatic update release",
+  "versionCode": 10,
+  "versionName": "10.0.0",
+  "apkUrl": "https://github.com/mdaadil87/adnan-ai-updates/releases/download/v10.0.0/AdnanAI-10.0.0.apk",
+  "releaseNotes": "Adnan AI 10.0.0 - Automatic update release",
   "mandatory": false
 }
