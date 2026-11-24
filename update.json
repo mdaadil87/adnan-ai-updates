@@ -1,8 +1,7 @@
-
 {
-  "versionCode": 11,
-  "versionName": "11.0.0",
-  "apkUrl": "https://github.com/mdaadil87/adnan-ai-updates/releases/download/v11.0.0/AdnanAI-11.0.0.apk",
-  "releaseNotes": "Adnan AI 11.0.0 - Latest feature update",
+  "versionCode": 18,
+  "versionName": "12.5.0",
+  "apkUrl": "https://github.com/mdaadil87/adnan-ai-updates/releases/download/v12.5.0/AdnanAI-12.5.0.apk",
+  "releaseNotes": "Adnan AI 12.5.0 - Latest release",
   "mandatory": false
 }
